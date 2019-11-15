@@ -1,0 +1,43 @@
+OPS435 Assignment2P Algorithm 
+
+
+
+Name: Wonyoung Lee 
+
+Student Number: 142318179 
+
+* Data calculation algorithms before a new algorism is for object-oriented programming to improve this.
+* An created with the function 'Date()', which properly recognizes the date, should be able to add or subtract based on the function called.
+* Check whether it is negative or positive number and stored through the third argument through the main function dbda(). It also runs a tommorrw function.
+* day_of_week function can calculate days by using number 0-6. 0 will be Sunday and 6 will be Saturday.
+* from input data, this script can calculate with ‘+’,’-‘ . the result can be negative number.
+
+
+
+* For date, There are '/' between year and month and day. so I declair len = 10 (YYYY/MM/DD). 
+
+
+
+* Also if month has more than 12 it shows error message. If day has more than 31 it shows error message. 
+
+
+
+* for main function(dbda(*argv)), to distinguish argv, I used first_number, second_number.And also use list function. I use list1.append which is add the list. 
+
+Also I put len(str(argv[1]) = 10 because number has 10 digits ( e.g 2019/01/01) 
+
+
+
+* For leap_year(), use (%4, %400) to distinguish leap year. 
+
+
+
+* For days_in_mon(year) function, only distinguish Feb from leap year. Feb in leap year has 29, others 28. 
+
+
+
+* For after and before function, add or substracts 1 from the existing date. For before function, if date is 0, it is been passed on to the befor month. 
+
+
+
+* For after function, if date is mon_max, add 1 for month. Also tmp_month > 12, add 1 for year.
