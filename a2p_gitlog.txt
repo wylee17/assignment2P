@@ -1,0 +1,23 @@
+commit a49ffcaa4187a0d4119f403a35762f5761d95c5c
+Merge: 3f098ea 6ba530b
+Author: wylee17 <wylee17@myseneca.ca>
+Date:   Wed Nov 27 10:17:03 2019 -0500
+
+    Merge branch 'master' of https://github.com/wylee17/assignment2P
+    
+    Conflicts:
+        a2_class.py
+
+commit 3f098ea946aeef01298d6ee22dbe98b5024cbafc
+Author: wylee17 <wylee17@myseneca.ca>
+Date:   Wed Nov 27 10:12:05 2019 -0500
+
+    OPS435 ASSIGNMENT 2P COMMITED
+
+commit 6ba530b76d79d82ead202f7810e73957d78782a3
+Author: wylee17 <54902873+wylee17@users.noreply.github.com>
+Date:   Fri Nov 22 11:33:35 2019 -0500
+
+    Add files via upload
+
+commit f728d4f17a5d712a572d16640ca59baf61de0197
